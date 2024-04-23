@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkucm_wiki=self.webpackChunkucm_wiki||[]).push([[5176],{3609:e=>{e.exports=JSON.parse('{"permalink":"/docs/index.html/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
